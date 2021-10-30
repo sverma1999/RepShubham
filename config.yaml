@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: A Hugo website
+title: Rep Shubham
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -17,7 +17,7 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
+      url: https://github.com/sverm1999
     - name: Twitter
       url: https://twitter.com/rstudio
 params:
