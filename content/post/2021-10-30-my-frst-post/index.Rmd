@@ -1,0 +1,16 @@
+---
+title: My frst Post
+author: R package build
+date: '2021-10-30'
+slug: my-frst-post
+categories: []
+tags: []
+---
+
+## Addition
+This is test addition.
+```{python}
+
+print("This is printed by python in markdown!")
+```
+
